@@ -38,19 +38,6 @@ for index in range(0, dots_per_row * 10, dots_per_row):
     print("INDEX: ", index)
 
 
-
-
-
-
-
-
-
-
-# for rgb in color_list:
-
-
-
-
 screen.exitonclick()
 
 
